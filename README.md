@@ -4,7 +4,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket:Installation & Configuration](https://github.com/catherinetjamak/install-config)
+  - [osTicket:Installation & Configuration](https://github.com/catherinetjamak/Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/catherinetjamak/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring  Active Directory within Azure VMs](https://github.com/catherinetjamak/configure-ad)
