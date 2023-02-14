@@ -1,5 +1,5 @@
 # Catherine-Tjamak
-<h1>Hi, I'm Catherine, an <a href="https://linkedin.com/in/catherine-tjamak-98079620a">IT SUPPORT SPECIALIST</a>☺</h1>
+<h1>Hi, I'm Catherine, an <a href="https://linkedin.com/in/catherine-tjamak-98079620a">HELP DESK SUPPORT</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
